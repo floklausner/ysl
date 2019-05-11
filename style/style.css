@@ -47,12 +47,10 @@ div {
 
 .background {
     height: 100vh;
+    width: 100vw;
     background-position: center;
     background: url(../Bilder/yves.jpg);
-    background-size: cover;
     background-repeat: no-repeat;
-    min-height: 500px;
-    height: 810px;
     background-attachment: fixed;
 }
 
