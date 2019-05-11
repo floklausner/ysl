@@ -46,6 +46,7 @@ div {
 }
 
 .background {
+    height: 100vh;
     background-position: center;
     background: url(../Bilder/yves.jpg);
     background-size: cover;
